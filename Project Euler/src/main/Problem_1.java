@@ -19,5 +19,4 @@ public class Problem_1
 		}
 		System.out.println("Answer: " + totalSum);
 	}
-
 }

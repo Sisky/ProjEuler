@@ -29,6 +29,4 @@ public class Problem_2
 		
 		System.out.println("Answer: " + sum);
 	}
-
-
 }
